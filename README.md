@@ -7,6 +7,7 @@
 - C ©️
 - Rust ⚙️
 - PHP 🗄️
+- Ruby 💎♦️
 - Haskell (Learning) λ
 - Elixir (Learning) 💧
 
